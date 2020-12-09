@@ -1,3 +1,11 @@
+# Identifying Information:
+
+1. Name: Dylan McIntosh
+2. Student ID: 2368740
+3. Email: dmcintosh@chapman.edu
+4. Class: CPSC 298
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
@@ -22,3 +30,19 @@ The program will display the lines of the My_old_cars file, sorted by year
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
 
+# Files
+
+1. cars.sh
+2. cars-input
+
+# Known Errors
+
+N/A
+
+# References
+
+N/A
+
+# Instructions
+
+Run the script with input from the included file with ./cars.sh < cars-input
